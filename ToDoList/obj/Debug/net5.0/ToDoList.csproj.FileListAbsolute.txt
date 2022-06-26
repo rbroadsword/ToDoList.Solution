@@ -1,0 +1,15 @@
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.deps.json
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.dll
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ref/ToDoList.dll
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.pdb
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.AssemblyReference.cache
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfoInputs.cache
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfo.cs
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.dll
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ref/ToDoList.dll
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.pdb
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.runtimeconfig.json
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.runtimeconfig.dev.json
+/Users/RB/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.genruntimeconfig.cache
